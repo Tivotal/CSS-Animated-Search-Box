@@ -37,7 +37,6 @@ body {
   border-radius: 5px;
   background: linear-gradient(40deg, #111, #00fffc);
   transition: 0.5s;
-  overflow: hidden;
 }
 
 #check:checked ~ .search-box {
@@ -73,7 +72,6 @@ body {
   color: #fff;
   font-size: 20px;
   cursor: pointer;
-  transition: 0.5s;
 }
 
 
